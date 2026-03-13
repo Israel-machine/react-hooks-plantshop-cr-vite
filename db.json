@@ -1,46 +1,94 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
       "image": "./images/aloe.jpg",
       "price": 15.99
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
       "price": 25.98
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
       "price": 5.99
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
       "image": "./images/pothos.jpg",
       "price": 12.11
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jade",
       "image": "./images/jade.jpg",
       "price": 10.37
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
       "price": 25.99
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "39ca",
+      "name": "Epazote",
+      "image": "\"blah\"",
+      "price": 12
+    },
+    {
+      "id": "bc5f",
+      "name": "Epazote",
+      "image": "\"blah\"",
+      "price": 12
+    },
+    {
+      "id": "b106"
+    },
+    {
+      "id": "2810"
+    },
+    {
+      "id": "7d51",
+      "name": "Hola",
+      "image": "Como Estas",
+      "price": "800"
+    },
+    {
+      "id": "4550",
+      "name": "Hola",
+      "image": "Como Estas",
+      "price": "800"
+    },
+    {
+      "id": "5858",
+      "name": "plant",
+      "image": "image",
+      "price": "0.23"
+    },
+    {
+      "id": "8cfe",
+      "name": "Karla",
+      "image": "image",
+      "price": "0.01"
+    },
+    {
+      "id": "eeb8",
+      "name": "Mkono",
+      "image": "https://m.media-amazon.com/images/I/713oE6jfJaL.jpg",
+      "price": "2.06"
     }
   ]
 }
